@@ -1,0 +1,5 @@
+<meta>
+	<script src="gates.luac" type="server"></script>
+	<script src="client.luac" type="client"></script>
+	<script src="ppClientGateMake.lua" type="client"></script>
+</meta>

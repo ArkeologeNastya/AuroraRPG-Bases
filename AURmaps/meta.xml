@@ -1,0 +1,23 @@
+<meta>
+    <script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client"></script>
+	<script src="doublesided.luac" type="client" />
+
+	<!--  NGC BASES / LAW-->
+	<script src="lspd.luac" type="client"> </script>
+	<script src="military.luac" type="client"></script>
+	<script src="sapd.luac" type="client"></script>
+	<!--  NGC BASES / CRIMINAL-->
+	<script src="co.luac" type="client"></script>
+	<script src="sm.luac" type="client"></script>
+    <!--  NGC BASES / SA-->
+	<script src="fixes.luac" type="server"></script>
+	<script src="kod.luac" type="server"></script>
+	<script src="lvtoll.luac" type="client"></script>
+	<script src="maze.luac" type="client"></script>
+	<script src="trees.luac" type="client"></script>
+	<script src="beach.luac" type="client"></script>
+	<script src="lvhospital.luac" type="client"></script>
+    <!--  MAP file for RemoveWorldObjects-->
+	<map src="RWO.map"></map>
+</meta>
